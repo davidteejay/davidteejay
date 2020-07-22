@@ -2,9 +2,7 @@
 
 Hi there! I'm Chibuokem, a software engineer with over 4 years experience in building web and mobile applications with React, React Native, Redux, SCSS, NodeJS, MongoDB, PostgreSQL and other libraries and frameworks. I enjoy working on interesting and awesome projects, especially if they help me learn something new and gain more experience.
 
-### Need to reach me?
-
-Click the **Send Feedback** at the top right, or send me an email at [chibuokem_tolu@hotmail.com](mailto:chibuokem_tolu@hotmail.com).
+**Need to reach me?** Click the ***Send Feedback*** at the top right, or send me an email at [chibuokem_tolu@hotmail.com](mailto:chibuokem_tolu@hotmail.com).
 
 Gracias! 🙏🏽
 
