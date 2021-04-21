@@ -6,11 +6,12 @@ Hi there! I'm Chibuokem, a software engineer with over 4 years experience in bui
 
 Gracias! 🙏🏽
 
+<!--
 <p align="left">
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/davidteejay/count.svg" />
 </p>
-
+-->
 
 <!--
 **davidteejay/davidteejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
