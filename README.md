@@ -8,7 +8,7 @@ Gracias! 🙏🏽
 
 <p align="left">
   <b>Visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/Udcodes/count.svg" />
+  <img src="https://profile-counter.glitch.me/davidteejay/count.svg" />
 </p>
 
 
